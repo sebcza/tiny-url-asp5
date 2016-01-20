@@ -5,7 +5,7 @@ A URL shortener is a service that takes in a long URL and  gives you a short and
 TinyUrl ASP is the 100% open source.
 ## Requirments
 - Linux or Windows as OS
-- PostreSQL as Datebase
+- PostreSQL as Database
 
 ## Built With
 

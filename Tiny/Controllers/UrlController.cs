@@ -11,7 +11,7 @@ namespace MyNamespace
     public class UrlController : Controller
     {
         // GET: /<controller>/
-        public IActionResult Index()
+        public IActionResult Index(int id)
         {
             return View();
         }
